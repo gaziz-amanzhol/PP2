@@ -1,0 +1,32 @@
+SuperMart Grocery Store
+123 Main Street, New York, NY 10001
+Phone: (555) 123-4567
+
+Date: 12/15/2024
+Time: 2:30 PM
+
+RECEIPT #12345
+================================
+
+Milk 1 Gallon           $3.99
+Bread Whole Wheat       $2.49
+Eggs Dozen              $4.29
+Chicken Breast 2lb      $8.99
+Apples 3lb              $5.49
+Orange Juice            $3.99
+Tomatoes                $2.79
+Pasta                   $1.99
+Cheese                  $6.49
+
+================================
+Subtotal:              $40.51
+Tax (8%):              $3.24
+--------------------------------
+TOTAL:                 $43.75
+
+Payment Method: Cash
+Cash:                  $50.00
+Change:                $6.25
+
+Thank you for shopping!
+Visit us again!
